@@ -6,3 +6,5 @@
 
 
 # Weaknesses
+
+- Git has a steep learning curve: the many commands and concepts (staging area, rebase, detached HEAD) are confusing for beginners.
